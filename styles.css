@@ -112,3 +112,11 @@ figure video {
 .notify-colorful h2, .notify-colorful h3, .notify-colorful h4 {
     margin: 0;
 }
+
+.spacer {
+    height: 1em;
+}
+
+.large-spacer {
+    height: 4em;
+}
