@@ -94,3 +94,10 @@ figure img {
     content: "";
     clear: both;
 }
+
+.notify-colorful {
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-left: 0.5em solid var(--background-color);
+    border-radius: 0.5em;
+}
