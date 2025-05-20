@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
-root {
+:root {
     /* Variabler */
     --primary-color: #ffffff;
     --background-color: #006699;
@@ -100,4 +100,6 @@ figure img {
     border: 1px solid #ccc;
     border-left: 0.5em solid var(--background-color);
     border-radius: 0.5em;
+    width: 98%;
+    margin: 0 auto;
 }
