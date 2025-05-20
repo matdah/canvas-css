@@ -53,6 +53,11 @@ figure img {
     max-width: 100%;
 }
 
+figure video {
+    width: 95%;
+    max-width: 100%;
+}
+
 .btn {
     background: #f2f4f4;
     color: #273540;
