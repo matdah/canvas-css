@@ -1,8 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 body {
+    font-family: "Lato Extended", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: white;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: normal;
 }
 
 .container {
     max-width: 960px;
     margin: auto;
+}
+
+p {
+    margin: 12px 0;
+}
+
+h2 {
+    color: #666;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 18px;
 }
