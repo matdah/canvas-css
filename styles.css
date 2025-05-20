@@ -17,7 +17,7 @@ body {
 }
 
 .container {
-    max-width: 960px;
+    max-width: 1140px;
     margin: auto;
 }
 
@@ -49,7 +49,7 @@ figure {
 }
 
 figure img {
-    width: 90%;
+    width: 95%;
     max-width: 100%;
 }
 
