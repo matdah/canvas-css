@@ -103,3 +103,7 @@ figure img {
     width: 98%;
     margin: 0 auto;
 }
+
+.nofify-colorful h2, .nofify-colorful h3, .nofify-colorful h4 {
+    margin: 0;
+}
